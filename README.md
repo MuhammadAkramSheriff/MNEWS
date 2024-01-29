@@ -1,16 +1,14 @@
 # mnewss
 
-A new Flutter project.
+News Article Application using News API
 
-## Getting Started
+In the busy daily people might don’t have much to read news papers everyday. In this era, with the 
+advancement of technology, when people tend to stay updated with the world news, they could have a 
+seamless news consumption experience, using the built News Article application. Users can effortlessly stay 
+updated on latest headlines around the world, explore of articles by different categories and countries allowing
+users to scroll through the news feeds as their interest and preferences, search article with a keyword and sort 
+articles. Additionally, the app has an key feature by allowing users to save articles which they prefer to watch 
+later. The app integrate News API to ensure real-time access to current new data’s.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demonstration Video 👉 
+https://drive.google.com/drive/folders/17MZjiJ4RLsr7dsEPLbFcnvoIFEE13lb7?usp=sharing
